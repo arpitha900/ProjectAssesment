@@ -9,7 +9,21 @@ Excel
 **Prerequisites**
 **Power BI Desktop:** Install Power BI Desktop from the official Microsoft website.
 Excel: Ensure you have Excel installed to view and handle .xlsb files.
-Clone the repository: 
+**Clone the repository:** https://github.com/arpitha900/ProjectAssesment.git
+
+Download the Repository as a ZIP File:
+
+Go to the repository on GitHub.
+Click on the Code button, and select Download ZIP.
+Extract the ZIP file to a folder on your computer.
+Open Power BI Files:
+
+Navigate to the extracted folder.
+Double-click the .pbix files to open them in Power BI Desktop.
+Open Excel Files:
+
+Open the corresponding .xlsb files with Microsoft Excel to review the data source files.
+
 **Assessment 1:**  ID Change Tracking
 Objective: Track and count the number of times IDs have changed from the initial ID to the latest ID.
 File to Refer: Count of ID Updates.xlsb
